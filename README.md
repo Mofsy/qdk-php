@@ -8,6 +8,7 @@
 
 ## Лицензия
 GNU GENERAL PUBLIC LICENSE v3
+
 Copyright (c) 2017 - Oleg Budrin (Mofsy)
 
 
